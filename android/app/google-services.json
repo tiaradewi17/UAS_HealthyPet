@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "242157431700",
+    "firebase_url": "https://uas-healthypet-default-rtdb.firebaseio.com",
+    "project_id": "uas-healthypet",
+    "storage_bucket": "uas-healthypet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242157431700:android:a8de6d9dd73fe95ddc7d81",
+        "android_client_info": {
+          "package_name": "com.example.healthypet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGRk2cYN3xk-J8py2KV_11dJQXK56HYNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
